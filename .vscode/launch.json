@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: odoo18c",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/Users/macbookpro/Desktop/odoo-dev/src/src/odoo18c/odoo-bin",
+            "python":"/Users/macbookpro/Desktop/odoo-dev/.venv/bin/python3",
+            "console": "integratedTerminal",
+            "args":[
+             "--config=/Users/macbookpro/Desktop/odoo-dev/src/conf/odoo18c.conf"
+            ]
+        }
+    ]
+}
